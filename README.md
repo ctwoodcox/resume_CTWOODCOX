@@ -1,6 +1,6 @@
 # Corey Woodcox
 
-# JR. Web Developer
+### (JR. Web Developer)
 
 ## Skills & Qualifications	
 
@@ -31,7 +31,7 @@
 	React, React Router, React Native, Python
 	Relational Database, MySQL, SQL, SQL Lite 
                                                                                                                 
-# EXPERIENCE	
+## EXPERIENCE	
 
 - Well Testing Junior Supervisor/Lead Operator /Operator                                       2012 -2019
   Haltech Testing Inc, Baytree, AB                                                                                    
@@ -39,5 +39,5 @@
 - Manager/Customer Service		                                                               2009 - 2012
   Hart Hotel Liquor Store, Pouce Coupe, BC 
                                                                                                           
-# REFERENCES	
+## REFERENCES	
 Available on Request
