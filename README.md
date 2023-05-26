@@ -1,60 +1,43 @@
 # Corey Woodcox
 
-## HIGHLIGHTS	
+# JR. Web Developer
 
--	Good leadership, decision-making and communication skills from successful roles as Manager/Supervisor in various industries
--	Well- developed observational and assessment abilities with an excellent eye for detail
--	Profound knowledge of general administration duties
--	Demonstrated excellent customer service skills with ability maintain a pleasant tone and attitude while dealing with unhappy customers
--	Excellent written and oral communication skills
--	Able to handle and utilize multi-line phones
--	Advanced Computer skills in MS Office with emphasis on Word, Excel, and Outlook with the ability to troubleshoot and repair most computer issues 
--	Great problem-solving skills; ability to work with people to resolve issues and/or develop solutions
--	 Highly adaptable to changing workloads and environments 
+## Skills & Qualifications	
 
-## ORGANIZATION & ADMINISTRATION	
+-	Competent employee with a willingness to learn new skills and apply them on the job quickly.
+-	Superb analytical and troubleshooting skills are demonstrated through the ability to assess and resolve issues in a timely manner.
+-	Advanced computer skills with basic knowledge of full-stack web development and the ability to troubleshoot, address bugs, and apply fixes.
+-	Knowledge and understanding of a networked computing environment, various computing peripherals such as barcode scanner, POS, printers, wireless Bluetooth devices 
+    and payment devices.
+-	Proficient knowledge of Microsoft Office 365, with an ability to maintain updated and accurate records.
+-	Strong written and verbal communication skills
+-	Ability to make decisions independently using logical assumptions and information, multi-task and prioritize.
+-	Proven customer service skills with the ability to address customer questions and concerns and provide quality customer care.
+-	Diploma in Full Stack Web Development (U of A), Certificate of Web Development (Lighthouse labs)
+    Languages I’ve worked with Include - HTML, CSS, JavaScript, C#, Python, Ruby (Sinatra + Rails), SQL.
 
--	Planned procedures and coordinated any other services or equipment that would be required
--	Managed logistics; ensured all items were properly secured for transport, the correct number of vehicles were there to transport staff and ensured all staff were transported 
-    safely from site
--	Completed inventory on weekly basis and ordered product from designated suppliers
--	Developed advertisements and promotions for social media, radio, and newspaper
--	Filled orders and placed products into packaging for shipping
--	Organized and prioritized tasks to be accomplished efficiently with a high standard of quality 
--	Maintained a clean and safe work area to prevent accidents and potential interferences in efficiency
--	Multi-tasked efficiently, looking after more than one duty at a time without sacrificing quality
--	Worked under pressure and managed conflicting demands                                                                                                                  
+## Education	
 
-# COMMUNICATION & INTERPERSONAL
+-	Web Development Bootcamp Certificate 		2023
+    Light House Labs | Edmonton, AB
+	HTML, CSS, JavaScript
+	Ruby + Sinatra, Active Record
 
--	Utilized listening skills with the ability to take precise direction to complete tasks effectively
--	Connected with customers, team members, and guided them to resolve problems
--	Shared knowledge with coworkers and customers with integrity and honesty
--	Communicated with customers, co-workers, and supervisors clearly in person, electronically, and on the telephone
--	Understood and followed specific instructions and procedures
--	Trained and mentored new staff members to ensure they understood job tasks, company policies and procedures
--	Initiated cold calls with customers to offer products and service and boost sales
--	Collaborated with teams to implement customer service initiatives
-
+-	Full-Stack Web Development Diploma 		2022
+    University of Alberta, Edmonton, AB
+	Design, Figma, Accessibility
+	HTML, CSS, JavaScript, Git, AWS
+	C#, .Net Core, MVC, Web API, Node JS, 
+	React, React Router, React Native, Python
+	Relational Database, MySQL, SQL, SQL Lite 
+                                                                                                                
 # EXPERIENCE	
 
 - Well Testing Junior Supervisor/Lead Operator /Operator                                       2012 -2019
-Haltech Testing Inc, Baytree, AB                                                                                    
+  Haltech Testing Inc, Baytree, AB                                                                                    
 
-- Sales/Finance
-Carco Auto, Edmonton, AB                                                                     2016 - 2017
-
-- Manager/Cashier                                                                              2009 - 2012
-Hart Hotel Liquor Store, Pouce Coupe, BC
-
-- Shipping & Receiving                                                                         2008 - 2009
-- Lawrence’s Meat Packing, Dawson Creek, BC
-# EDUCATION	
-- HighSchool                                                   
-Grant MacEwan Alberta High School Diploma Program, Edmonton, AB
-
-- Automotive Technician                                                                        
-South Peace Secondary School (B.C.I.T Partnership program)                                                                                                             
-
+- Manager/Customer Service		                                                               2009 - 2012
+  Hart Hotel Liquor Store, Pouce Coupe, BC 
+                                                                                                          
 # REFERENCES	
 Available on Request
