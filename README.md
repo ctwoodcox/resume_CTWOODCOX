@@ -18,26 +18,26 @@
 
 ## Education	
 
--	Web Development Bootcamp Certificate 		2023
-    Light House Labs | Edmonton, AB
-	HTML, CSS, JavaScript
-	Ruby + Sinatra, Active Record
+-	Web Development Bootcamp Certificate (2023)
+    -   Light House Labs | Edmonton, AB
+        -	HTML, CSS, JavaScript
+        -	Ruby + Sinatra, Active Record
 
--	Full-Stack Web Development Diploma 		2022
-    University of Alberta, Edmonton, AB
-	Design, Figma, Accessibility
-	HTML, CSS, JavaScript, Git, AWS
-	C#, .Net Core, MVC, Web API, Node JS, 
-	React, React Router, React Native, Python
-	Relational Database, MySQL, SQL, SQL Lite 
+-	Full-Stack Web Development Diploma (2022)
+    -   University of Alberta, Edmonton, AB
+        -	Design, Figma, Accessibility
+        -	HTML, CSS, JavaScript, Git, AWS
+        -	C#, .Net Core, MVC, Web API, Node JS, 
+        -	React, React Router, React Native, Python
+        -	Relational Database, MySQL, SQL, SQL Lite 
                                                                                                                 
 ## EXPERIENCE	
 
-- Well Testing Junior Supervisor/Lead Operator /Operator                                       2012 -2019
-  Haltech Testing Inc, Baytree, AB                                                                                    
+- Well Testing Supervisor/Operator (2012 -2019)
+  - Haltech Testing Inc, Baytree, AB                                                                                    
 
-- Manager/Customer Service		                                                               2009 - 2012
-  Hart Hotel Liquor Store, Pouce Coupe, BC 
+- Manager/Customer Service (2009 - 2012)
+  - Hart Hotel Liquor Store, Pouce Coupe, BC 
                                                                                                           
 ## REFERENCES	
-Available on Request
+- Available on Request
